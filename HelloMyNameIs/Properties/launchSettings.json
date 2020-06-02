@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HelloMyNameIs": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
